@@ -1,0 +1,32 @@
+[
+    {
+        "question": "How do they approach work-life balance?",
+        "answer": "Maria values maintaining a healthy work-life balance and prefers a career that allows her flexible scheduling and remote work opportunities.",
+        "inferability_score_1": 4,
+        "inferability_score_2": 3
+    },
+    {
+        "question": "What motivates them to excel at work?",
+        "answer": "Maria is primarily driven by achieving results that lead to career advancement and recognition in her field.",
+        "inferability_score_1": 5,
+        "inferability_score_2": 4
+    },
+    {
+        "question": "What type of management style do they prefer?",
+        "answer": "Maria prefers a management style that is supportive and empowering, allowing her autonomy in her tasks while providing guidance when necessary.",
+        "inferability_score_1": 3,
+        "inferability_score_2": 3
+    },
+    {
+        "question": "How do they handle stress and pressure at work?",
+        "answer": "Maria uses a combination of planning and prioritization to manage stress, and she values workplaces that support mental health.",
+        "inferability_score_1": 4,
+        "inferability_score_2": 4
+    },
+    {
+        "question": "What kind of projects do they find most engaging?",
+        "answer": "Maria finds projects that require creative problem solving and innovation most engaging, as these allow her to utilize her strengths.",
+        "inferability_score_1": 5,
+        "inferability_score_2": 5
+    }
+]

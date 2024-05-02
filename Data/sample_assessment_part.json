@@ -1,0 +1,47 @@
+[
+    {
+        "question": "How do they approach work-life balance?",
+        "answer": "Maria values maintaining a healthy work-life balance and prefers a career that allows her flexible scheduling and remote work opportunities.",
+        "evidence": [
+            "It's crucial for me to have time for my personal life and hobbies outside of work.",
+            "Flexible hours really help me perform my best, both professionally and personally.",
+            "Working from home has always made me more productive and relaxed."
+        ]
+    },
+    {
+        "question": "What motivates them to excel at work?",
+        "answer": "Maria is primarily driven by achieving results that lead to career advancement and recognition in her field.",
+        "evidence": [
+            "I thrive on recognition and promotions; they confirm I'm on the right path.",
+            "Seeing tangible results from my work is extremely motivating for me.",
+            "I am career-oriented and always looking for opportunities to climb the ladder."
+        ]
+    },
+    {
+        "question": "What type of management style do they prefer?",
+        "answer": "Maria prefers a management style that is supportive and empowering, allowing her autonomy in her tasks while providing guidance when necessary.",
+        "evidence": [
+            "I work best when I'm given freedom to explore my own methods.",
+            "Supportive feedback and constructive criticism are essential for my growth.",
+            "I like knowing that my manager trusts me to make important decisions."
+        ]
+    },
+    {
+        "question": "How do they handle stress and pressure at work?",
+        "answer": "Maria uses a combination of planning and prioritization to manage stress, and she values workplaces that support mental health.",
+        "evidence": [
+            "Staying organized helps me keep stress at bay.",
+            "I believe it's important for a workplace to support its employees' mental health.",
+            "I use prioritization to deal with work pressure effectively."
+        ]
+    },
+    {
+        "question": "What kind of projects do they find most engaging?",
+        "answer": "Maria finds projects that require creative problem solving and innovation most engaging, as these allow her to utilize her strengths.",
+        "evidence": [
+            "Creative challenges help me stay engaged and excited about my work.",
+            "I love being involved in projects where I can think outside the box.",
+            "Innovation is key for me to feel fulfilled in my job."
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "index": 0,
+        "speaker_label": "Speaker 1",
+        "paragraph": "Hello, how are you?",
+        "start_time": 1713437426,
+        "end_time": 1713437520
+    },
+    {
+        "index": 1,
+        "speaker_label": "Speaker 2",
+        "paragraph": "I'm good, thanks. How about you?",
+        "start_time": 1713437532,
+        "end_time": 1713437602
+    },
+    {
+        "index": 2,
+        "speaker_label": "Speaker 1",
+        "paragraph": "I'm well, thank you. Let's start with the first question. Can you describe what you look for in a career?",
+        "start_time": 1713437610,
+        "end_time": 1713437700
+    },
+    {
+        "index": 3,
+        "speaker_label": "Speaker 2",
+        "paragraph": "Sure, I look for opportunities where I can both grow professionally and contribute to something meaningful.",
+        "start_time": 1713437710,
+        "end_time": 1713437810
+    },
+    {
+        "index": 4,
+        "speaker_label": "Speaker 1",
+        "paragraph": "Interesting. And how about in relationships? What qualities do you value most?",
+        "start_time": 1713437820,
+        "end_time": 1713437920
+    },
+    {
+        "index": 5,
+        "speaker_label": "Speaker 2",
+        "paragraph": "In relationships, I value honesty, respect, and a sense of humor the most.",
+        "start_time": 1713437930,
+        "end_time": 1713438020
+    },
+    {
+        "index": 6,
+        "speaker_label": "Speaker 1",
+        "paragraph": "Great, those are important. How do you handle stress and pressure?",
+        "start_time": 1713438030,
+        "end_time": 1713438120
+    },
+    {
+        "index": 7,
+        "speaker_label": "Speaker 2",
+        "paragraph": "I try to stay organized and prioritize my tasks. It helps a lot in managing stress.",
+        "start_time": 1713438130,
+        "end_time": 1713438220
+    },
+    {
+        "index": 8,
+        "speaker_label": "Speaker 1",
+        "paragraph": "Thank you for sharing that. Last question, what motivates you to excel in your work or personal life?",
+        "start_time": 1713438230,
+        "end_time": 1713438320
+    },
+    {
+        "index": 9,
+        "speaker_label": "Speaker 2",
+        "paragraph": "I'm motivated by goals and achievements. Whether it's in work or personal projects, reaching a goal gives me a lot of satisfaction.",
+        "start_time": 1713438330,
+        "end_time": 1713438420
+    }
+]
